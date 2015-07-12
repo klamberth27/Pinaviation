@@ -1,5 +1,5 @@
 # PinAviation
 
-Pinaviation Appicsation
+Pinaviation Application
 [*pinaviation*](http://pinaviation.com)
 by [Kris Lamberth]
