@@ -1,5 +1,5 @@
-# One Month Rails
+# PinAviation
 
-This is the pinteresting sample application for
-[*One Month Rails*](http://pilotport.com)
+Pinaviation Appicsation
+[*pinaviation*](http://pinaviation.com)
 by [Kris Lamberth]
